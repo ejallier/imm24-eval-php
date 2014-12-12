@@ -20,3 +20,10 @@ avec le nom "imm24-eval-nom.zip", et déposez cette archive sur campus dans le c
 | Utilisation des boucles pour les dialogues	| 3 |
 | Affichage des images | 1 |
 | TOTAL | 10 |
+<table>
+	<tr>
+		<td>hops</td>
+		<td>hips</td>
+		<td>houpss</td>
+	</tr>
+</table>
