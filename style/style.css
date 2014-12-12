@@ -1,0 +1,50 @@
+body{
+	background : lightgrey;
+}
+
+#dialogue{
+	background : white; 
+	width : 260px; 
+	padding : 10px;
+	margin: 0 auto;
+	border-style: solid;
+	border-color : transparent;
+	border-width: 20px;
+	-moz-border-image: url(../img/border.png) 20% round;
+	-webkit-border-image: url(../img/border.png) 20% round;
+	-o-border-image: url(../img/border.png) 20% round;
+	border-image: url(../img/border.png) 20% fill round;
+}
+
+#dialogue p{
+	font-family:komika;
+	font-size:14px;
+	width : 150px;
+	margin-top : -36px;
+	padding-bottom : 35px;
+	text-align: center;
+}
+#dialogue p:first-child{
+	margin-top : 0px;
+}
+
+p.perso1{
+	margin-left : 5px;
+	background : url("../img/trait_spirou.png") bottom center no-repeat;
+}
+
+p.perso2{
+	margin-left:105px;
+	background : url("../img/trait_gaston.png") bottom center no-repeat; 
+}
+
+#persos{
+	padding :0;
+	margin:0
+}
+
+#dialogue p.liens{
+margin:0px;
+padding:0px;
+width : 100%;
+}
