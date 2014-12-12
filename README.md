@@ -15,6 +15,8 @@ Une fois l'exercice terminé, compressez au format zip,
 avec le nom "imm24-eval-nom.zip", et déposez cette archive sur campus dans le cours IMM2.4 / Travaux
 
 ##Barême
+| Consigne | barème |
+| -------- | ------ |
 | Création des variables tableaux pour les Dialogues  | 3 |
 | Création des variables tableaux pour les persos | 3 |
 | Utilisation des boucles pour les dialogues	| 3 |
