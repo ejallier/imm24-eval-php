@@ -3,6 +3,7 @@ Evaluation PhP - Formation CEFIM IMM - Module IMM2.3
 
 
 #Le dialogue historique entre Spirou et Gaston
+![dialogue Historique](/sources/gaston-spirou-orig.png)
 
 ##Consignes
 Traduisez en PhP les consignes écrites en français, dans le fichier "content/index.php".
