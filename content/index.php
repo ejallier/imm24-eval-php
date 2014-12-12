@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<?php 
+<?php
 	/*
 		Commencez par créer 2 variables tableau
 		dans $dialog1, stockez les répliques de Spirou
@@ -38,18 +38,15 @@
 
 
 	<div id="dialogue">
-		<?php 
-		
+		<?php
+
 		//	Grâce à des boucles et aux variables précédemment crées, Affichez le dialogue.
 		//  Pour que ce dialogue corresponde au CSS fourni, il doit être formaté ainsi
 		//  Pour chaque succesion de questions / réponse.
 		//  <p class='perso1'>La question de Spirou</p>
 		//  <p class='perso2'>La réponse de Gaston</p>
 
-			for($i=0; $i<=6; $i++){
-				echo '<p class="perso1">' . $perso1["dialog"][$i] . '</p>';
-				echo '<p class="perso2">' . $perso2["dialog"][$i] . '</p>';
-			}
+
 		?>
 		<div id="persos">
 		<?php
