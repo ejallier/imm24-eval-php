@@ -15,8 +15,8 @@
 <?php 
 	/*
 		Commencez par créer 2 variables tableau
-		dans $dialog1, vous stockerez les répliques de Spirou
-		dans $dialog2, vous stockerez les répliques de Gaston
+		dans $dialog1, stockez les répliques de Spirou
+		dans $dialog2, stockez les répliques de Gaston
 	*/
 
 
@@ -40,7 +40,11 @@
 	<div id="dialogue">
 		<?php 
 		
-		//	Si vous avez bien suivi les consignes, le code suivant devrait fonctionner :
+		//	Grâce à des boucles et aux variables précédemment crées, Affichez le dialogue.
+		//  Pour que ce dialogue corresponde au CSS fourni, il doit être formaté ainsi
+		//  Pour chaque succesion de questions / réponse.
+		//  <p class='perso1'>La question de Spirou</p>
+		//  <p class='perso2'>La réponse de Gaston</p>
 
 			for($i=0; $i<=6; $i++){
 				echo '<p class="perso1">' . $perso1["dialog"][$i] . '</p>';
@@ -48,8 +52,9 @@
 			}
 		?>
 		<div id="persos">
-			<img src="../img/<?php  echo $perso1["image"]; ?>" />
-			<img src="../img/<?php  echo $perso2["image"]; ?>" />
+		<?php
+		//Afficher les deux images des personnages grâce aux variables-tableaux précédemment crées
+		?>
 		</div>
 
 	</div>
