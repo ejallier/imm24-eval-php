@@ -16,11 +16,7 @@ avec le nom "imm24-eval-nom.zip", et déposez cette archive sur campus dans le c
 
 ##Barême
 | Création des variables tableaux pour les Dialogues  | 3 |
-
 | Création des variables tableaux pour les persos | 3 |
-
 | Utilisation des boucles pour les dialogues	| 3 |
-
 | Affichage des images | 1 |
-
 | TOTAL | 10 |
