@@ -8,11 +8,16 @@ Evaluation PhP - Formation CEFIM IMM - Module IMM2.3
 Traduisez en PhP les consignes écrites en français, dans le fichier "content/index.php"
 
 ##Livraison
-Une fois l'exercice terminé, compressez au format zip, avec le nom "imm24-eval-nom.zip", et déposez cette archive sur campus dans le cours IMM2.4 / Travaux
+Une fois l'exercice terminé, compressez au format zip, 
+avec le nom "imm24-eval-nom.zip", et déposez cette archive sur campus dans le cours IMM2.4 / Travaux
 
 ##Barême
 Création des variables tableaux pour les Dialogues  /3
+
 Création des variables tableaux pour les persos		/3
+
 Utilisation des boucles pour les dialogues			/3
+
 Affichage des images								/1
+
 TOTAL												/10
